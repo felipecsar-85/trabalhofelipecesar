@@ -1,0 +1,46 @@
+[
+{
+    "id": 1,
+    "titulo": "Stranger Things",
+    "ano": 2016,
+    "genero": "Ficcao",
+    "temporadas": 5,
+    "imagem": "img/strangerthings1.jpg"
+},
+{
+    "id": 2,
+    "titulo": "Supernatural",
+    "ano": 2005,
+    "genero": "Suspense/Terror",
+    "temporadas": 15,
+    "imagem": "img/supernatural.png"
+   
+},
+{
+    "id": 3,
+    "titulo": "The Office",
+    "ano": 2005,
+    "genero": "Comedia",
+    "temporadas": 9,
+    "imagem": "img/theoffice.jpg"
+    
+},
+{
+    "id": 4,
+    "titulo": "Breaking Bad",
+    "ano": 2008,
+    "genero": "Drama/Suspense",
+    "temporadas": 5,
+    "imagem": "img/breaking bad.jpg"
+},
+{
+    "id": 5,
+    "titulo": "Dark",
+    "ano": 2017,
+    "genero": "Suspense/Terror",
+    "temporadas": 3,
+    "imagem": "img/dark.jpg"
+    
+    
+}
+]
